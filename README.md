@@ -1,6 +1,8 @@
 # HandwrittenDigitRecognizer
 Python code for handwritten digit recognition using deep learning and the MNIST dataset.
 
+It is a project of My Internship at CodeClause @CodeClause
+
 Link to dataset : https://www.kaggle.com/datasets/scolianni/mnistasjpg
 
 Images should be 24x24
